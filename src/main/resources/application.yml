@@ -1,0 +1,8 @@
+spring.application.name:
+  smart-coding
+langchain4j:
+  community:
+    dashscope:
+      chat-model:
+        model-name: qwen-max
+        api-key: sk-5447d2a47590495a88bfb9d2668c9bf0
