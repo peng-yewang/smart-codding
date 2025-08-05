@@ -1,4 +1,4 @@
-package com.pyw.smartcoding.processor;
+package com.pyw.smartcoding.ai;
 
 import dev.langchain4j.data.message.AiMessage;
 import dev.langchain4j.data.message.SystemMessage;

@@ -6,3 +6,11 @@ langchain4j:
       chat-model:
         model-name: qwen-max
         api-key: sk-5447d2a47590495a88bfb9d2668c9bf0
+      embedding-model:
+        model-name: text-embedding-v4
+        api-key: sk-5447d2a47590495a88bfb9d2668c9bf0
+bigmodel:
+  api-key:
+
+milvus:
+  host: http://192.168.88.132:19530
